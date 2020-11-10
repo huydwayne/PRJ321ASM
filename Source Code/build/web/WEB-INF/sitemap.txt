@@ -1,0 +1,12 @@
+=login.jsp
+register=register.jsp
+registerSubmit=RegisterServlet
+login=LoginServlet
+logout=LogoutServlet
+showResult=ShowResultServlet
+create=CreateProductServlet
+cart=AddToCartServlet
+update=LoadProductServlet
+delete=DeleteProductServlet
+removeCart=RemoveCartServlet
+checkout=CheckOutServlet
